@@ -1,5 +1,6 @@
 # NotAnotherEShop
   
+  ![overview-sc.png](overview-sc.png)
   ## Description
   NotAnotherEShop is a project to create, and update a store-front database using the Sequelize package.
   ## Table of Contents
