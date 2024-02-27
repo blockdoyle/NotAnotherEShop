@@ -2,6 +2,7 @@
   
   ![overview-sc.png](overview-sc.png)
   ## Description
+  [Link to demo video](https://youtu.be/3p4U8pk3rNA)
   NotAnotherEShop is a project to create, and update a store-front database using the Sequelize package.
   ## Table of Contents
 - [NotAnotherEShop](#notanothereshop)
